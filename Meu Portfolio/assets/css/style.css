@@ -1,0 +1,87 @@
+.menu li {
+    display: inline;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.menu {
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+}
+
+.menu a {
+    color: rgb(102, 198, 236);
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color: rgb(8, 8, 199);
+}
+
+.apresentação {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.apresentação h2{
+    text-align: center;
+    background-color: #777777;
+    padding: 20px;
+}
+
+.apresentação p {
+    font-size: 18px;
+    text-align: center;
+}
+
+.roda-pé {
+    background-color: #777777;
+    padding: 20px;
+}
+
+.direitos a{
+    color: black;
+    text-decoration: none;
+}
+
+.form-flex {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+}
+
+.tm-btn {
+    width: fit-content;
+    height: fit-content;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+
+.campo {
+    background-color:royalblue;
+    padding: 20px;
+}
+
+.p-30 {
+    padding: 30px;
+}
+
+.bg-contato{
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+.bg-contato h1{
+    padding: 20px;
+    background-color: #777777;
+}
+
+.butão {
+    padding: 5px;
+}
